@@ -59,6 +59,12 @@ I work both on the front-end and back-end, and I love technology, I train whenev
       </p>
       <p align="center">C#</p>
     </td>
+    <td>
+      <p align="center">
+        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+      </p>
+      <p align="center">C++</p>
+    </td>
   </tr>
 </table>
 
